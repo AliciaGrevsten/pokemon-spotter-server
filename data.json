@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "username": "Alicia",
+        "password": "123456",
+        "email": "alicia@test.se",
+        "spottedPokemons": [
+            {
+                "id": 1,
+                "pokemon": "Picachu",
+                "type": "Electric",
+                "gender": "male",
+                "shiny": false,
+                "location": "By the beach",
+                "dateTime": "2020-09-02 14:18"
+            },
+            {
+                "id": 2,
+                "pokemon": "Bulbasaur",
+                "type": "grass",
+                "gender": "male",
+                "shiny": false,
+                "location": "By the orphanage",
+                "dateTime": "2020-09-02 14:19"
+            },
+            {
+                "id": 3,
+                "pokemon": "Mew",
+                "type": "Mystic",
+                "gender": "female",
+                "shiny": true,
+                "location": "That is a secret of course..",
+                "dateTime": "2020-09-02 14:08"
+            }
+        ]
+    }
+]
